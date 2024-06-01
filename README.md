@@ -1,5 +1,5 @@
 ## About Me 👋
-Hi there! I’m Nilufar Shaikh. Welcome to My Profile!
+Hi there! I’m Nilufar Shaikh.
 I’m a passionate tech enthusiast with a love for coding and problem-solving. I enjoy diving deep into various technologies and frameworks, constantly learning and exploring new concepts. Coding isn't just a profession for me—it's a passion. I find joy in transforming concepts into reality and creating impactful solutions.
 
 ## My Interests ✨

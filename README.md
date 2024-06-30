@@ -17,13 +17,5 @@ Reach me at [nilufarrehanshaikh@gmail.com](mailto:nilufarrehanshaikh@gmail.com)
 ## Motivational Quote 🌟
 "The only way to do great work is to love what you do." - Steve Jobs
 
-## Repositories 💼
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=laravel-chat-application)](https://github.com/nilufarshaikh/laravel-chat-application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=simple-farm-app)](https://github.com/nilufarshaikh/simple-farm-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=node-and-react-auth-apis)](https://github.com/nilufarshaikh/node-and-react-auth-apis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=mini-python-projects)](https://github.com/nilufarshaikh/mini-python-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=portfolio-website)](https://github.com/nilufarshaikh/portfolio-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=learn-php-unit)](https://github.com/nilufarshaikh/learn-php-unit)
-
 ## Contributions 📈
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nilufarshaikh)

@@ -25,6 +25,5 @@ Reach me at [nilufarrehanshaikh@gmail.com](mailto:nilufarrehanshaikh@gmail.com)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=portfolio-website)](https://github.com/nilufarshaikh/portfolio-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nilufarshaikh&repo=learn-php-unit)](https://github.com/nilufarshaikh/learn-php-unit)
 
-## Stats & Contributions 📈
-![Nilufar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilufarshaikh&show_icons=true)
+## Contributions 📈
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nilufarshaikh)

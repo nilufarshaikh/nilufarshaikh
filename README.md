@@ -6,9 +6,10 @@ I’m a passionate tech enthusiast with a love for coding and problem-solving. I
 - **PHP & Laravel**: I have a strong affinity for PHP and its popular framework Laravel. I love building robust web applications with Laravel's elegant syntax and powerful features.
 - **Python**: Python holds a special place in my heart. Its simplicity and versatility make it a joy to work with, whether it's scripting, web development, or data analysis.
 - **Databases**: I have experience working with relational databases like MySQL, as well as NoSQL databases like MongoDB. Understanding how to design and optimize database systems is crucial for building scalable and efficient applications.
+- **Node.js & React.js**: I'm fascinated by the world of JavaScript, especially with Node.js on the backend and React.js on the frontend. Creating dynamic, interactive web applications with these technologies is both challenging and immensely rewarding.
 
 ## Currently Learning 🌱
-- **Node.js & React.js**: I'm fascinated by the world of JavaScript, especially with Node.js on the backend and React.js on the frontend. Creating dynamic, interactive web applications with these technologies is both challenging and immensely rewarding. Hence I have currently enrolled myself in a Software Engineering Bootcamp at BrainStation to learn more about these languages.
+- **Next.js and OpenAI**
 
 ## Let's Connect! 📫
 If you share similar interests or have any exciting projects you'd like to collaborate on, feel free to reach out! I'm always open to connecting with fellow tech enthusiasts and exploring new opportunities. 

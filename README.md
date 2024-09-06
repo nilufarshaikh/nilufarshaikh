@@ -17,6 +17,3 @@ Reach me at [nilufarrehanshaikh@gmail.com](mailto:nilufarrehanshaikh@gmail.com)
 
 ## Motivational Quote 🌟
 "The only way to do great work is to love what you do." - Steve Jobs
-
-## Contributions 📈
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nilufarshaikh)

@@ -9,7 +9,7 @@ I’m a passionate tech enthusiast with a love for coding and problem-solving. I
 - **Python**: Python holds a special place in my heart. Its simplicity and versatility make it a joy to work with, whether it's scripting, web development, or data analysis.
 
 ## Currently Learning 🌱
-- **Next.js and OpenAI**
+- **TypeScript**
 
 ## Let's Connect! 📫
 If you share similar interests or have any exciting projects you'd like to collaborate on, feel free to reach out! I'm always open to connecting with fellow tech enthusiasts and exploring new opportunities. 

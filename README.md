@@ -13,7 +13,7 @@
 
 📄 Know about my experiences on **[https://www.linkedin.com/in/nilufarshaikh](https://www.linkedin.com/in/nilufarshaikh)**
 
-💬 Ask me about **full-stack magic 🧙‍♂️, solving coding puzzles 🧩, TypeScript adventures, API integrations, or how to survive endless debugging sessions with coffee ☕!**
+💬 Ask me about **full-stack magic 🧙‍♂️, solving coding puzzles 🧩, or how to survive endless debugging sessions with coffee ☕!**
 
 📫 Reach me at **nilufarrehanshaikh@gmail.com**
 

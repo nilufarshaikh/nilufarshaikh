@@ -19,7 +19,7 @@
 
 - 📝 Check out my Resume here [https://nilufarshaikhportfolio.online/Nilufar_Shaikh_Resume.pdf](https://nilufarshaikhportfolio.online/Nilufar_Shaikh_Resume.pdf)
 
-- ⚡ Fun fact **I write code like I’m brewing coffee — strong, smooth, and occasionally causes a bit of jitter! ☕💻**
+- ⚡ Fun fact - **I write code like I’m brewing coffee — strong, smooth, and occasionally causes a bit of jitter! ☕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

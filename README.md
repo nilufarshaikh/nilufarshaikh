@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects in Laravel and JavaScript frameworks**
 
-- 🤝 I’m looking for help with **connecting with fellow tech lovers who are excited about innovation and collaboration! 🌟🤝**
+- 🤝 I’m looking to help with **connecting with fellow tech lovers who are excited about innovation and collaboration! 🌟🤝**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nilufarshaikh](https://github.com/nilufarshaikh)
 

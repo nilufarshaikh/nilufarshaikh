@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **[Restaurant & Food Ordering System](https://github.com/nilufarshaikh/food-ordering-system)**
 
-🌱 Currently diving into **TypeScript while leveling up my DSA skills by LeetCoding!**
+🌱 Currently diving into **AWS certifications while leveling up my DSA skills by LeetCoding!**
 
 👯 I’m looking to collaborate on **open-source projects in Laravel and JavaScript frameworks.**
 

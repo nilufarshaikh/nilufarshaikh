@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilufar Shaikh</h1>
 <h3 align="center">🚀 Passionate Full-Stack Software Engineer 💻 driven by Impact 🌍</h3>
 
-🔭 I’m currently working on **[Restaurant & Food Ordering System](https://github.com/nilufarshaikh/food-ordering-system)**
+🔭 I’m currently working on **[JobQuest - Job Application Tracking System](https://github.com/nilufarshaikh/jobQuest)**
 
 🌱 Currently diving into **Next.js and AWS while leveling up my DSA skills by LeetCoding!**
 

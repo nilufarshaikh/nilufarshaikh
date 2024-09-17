@@ -58,5 +58,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilufarshaikh&show_icons=true&locale=en&layout=compact" alt="nilufarshaikh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilufarshaikh&show_icons=true&locale=en" alt="nilufarshaikh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilufarshaikh&" alt="nilufarshaikh" /></p>

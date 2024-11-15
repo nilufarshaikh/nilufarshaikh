@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilufar Shaikh</h1>
 <h3 align="center">🚀 Passionate Full-Stack Software Engineer 💻 driven by Impact 🌍</h3>
 
-🔭 I’m currently working on **[JobQuest - Job Application Tracking System](https://github.com/nilufarshaikh/jobQuest)**
-
-🌱 Currently diving into **Next.js and AWS while leveling up my DSA skills by LeetCoding!**
-
-👯 I’m looking to collaborate on **open-source projects in Laravel and JavaScript frameworks.**
-
-🤝 I’m looking to help **connecting with fellow tech lovers who are excited about innovation and collaboration!**
-
-👨‍💻 All of my projects are available at **[https://github.com/nilufarshaikh](https://github.com/nilufarshaikh)**
-
-📄 Know about my experiences on **[https://www.linkedin.com/in/nilufarshaikh](https://www.linkedin.com/in/nilufarshaikh)**
+🌱 Currently diving into **AWS and GenAI while leveling up my DSA skills by LeetCoding!**
 
 💬 Ask me about **full-stack magic 🧙‍♂️, solving coding puzzles 🧩, or how to survive endless debugging sessions with coffee ☕!**
 
 📫 Reach me at **nilufarrehanshaikh@gmail.com**
-
-📝 Check out my Resume here - **[https://nilufarshaikhportfolio.online/Nilufar_Shaikh_Resume.pdf](https://nilufarshaikhportfolio.online/Nilufar_Shaikh_Resume.pdf)**
-
-⚡ Fun fact - **I write code like I’m brewing coffee — strong, smooth, and occasionally causes a bit of jitter! ☕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

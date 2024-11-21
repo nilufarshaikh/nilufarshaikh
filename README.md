@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilufar Shaikh</h1>
-<h3 align="center">🚀 Passionate Full-Stack Software Engineer 💻 driven by Impact 🌍</h3>
+<h3 align="center">🚀 I'm passionate about coding, problem-solving, and creating user-friendly web experiences 🌍</h3>
 
 🌱 Currently diving into **AWS and GenAI while leveling up my DSA skills by LeetCoding!**
 

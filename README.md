@@ -5,8 +5,6 @@
 
 💬 Ask me about **full-stack magic 🧙‍♂️, solving coding puzzles 🧩, or how to survive endless debugging sessions with coffee ☕!**
 
-📫 Reach me at **nilufarrehanshaikh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nilufarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilufarshaikh" height="30" width="40" /></a>
